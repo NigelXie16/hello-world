@@ -1,7 +1,8 @@
 # hello-world
 OOP Workshop
 
-### Self 
-## Nigel
-# Student
+# Human
+## Self 
+### Nigel
+#### Student
 Coder
